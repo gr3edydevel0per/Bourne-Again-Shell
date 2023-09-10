@@ -3,7 +3,7 @@ When we first run the bash it will run a startup script
 
 every bash script has a .sh extension or there is no extension for script file
 
-#! is known as Shebang 
+#! is known as Shebang or HashBang
 it is followed by path to the bash in which the script is written
 
 Commands of script file are interpreted line by line
