@@ -6,3 +6,4 @@ dmesg {Diagnostic Message}
 cp
 mv 
 rm 
+which
