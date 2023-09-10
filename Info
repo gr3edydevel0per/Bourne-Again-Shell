@@ -5,3 +5,7 @@ every bash script has a .sh extension or there is no extension for script file
 
 #! is known as Shebang 
 it is followed by path to the bash in which the script is written
+
+Commands of script file are interpreted line by line
+
+& - adding this in a command will execute the command in background with interrupting the other commands
