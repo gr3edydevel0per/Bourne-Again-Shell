@@ -1,0 +1,8 @@
+touch 
+cat
+less
+more
+dmesg {Diagnostic Message}
+cp
+mv 
+rm 
