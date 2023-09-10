@@ -1,0 +1,2 @@
+When we first run the bash it will run a startup script 
+.bash_rc or .bash_profile  [used for changing the behaviour and appearence of the shell]
